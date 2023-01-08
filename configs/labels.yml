@@ -1,18 +1,15 @@
 - name: "good first issue"
-  color: "5319e7"
+  color: 5319e7
   description: "Good for newcomers"
   aliases: []
-
 - name: "help wanted"
-  color: "008672"
+  color: 008672
   description: "Extra attention is needed"
   aliases: []
-
 - name: "⚙️ DevOps"
-  color: "008672"
-
+  color: 008672
 - name: "🧊 Ice Box "
-  color: "008672"
+  color: 008672
 - name: "🎪 Epic"
   color: "008672"
 - name: "🆕 Feature Request"
@@ -21,7 +18,6 @@
   color: "008672"
 - name: "🍄 Back End"
   color: "008672"
-
 - name: "⚖️ Compliance/Legal"
   color: "008672"
 - name: "🤠 Something Fun"
@@ -32,45 +28,31 @@
   color: "008672"
 - name: "🗳️ Feedback Needed "
   color: "008672"
-
 - name: "⛔ Blocked "
   color: "008672"
-
 - name: "♿ Accessability"
   color: "008672"
-
 - name: "🌵 Tough Issue"
   color: "008672"
 - name: "🚷 Not Persuing󠁣 "
   color: "008672"
-
 - name: "🏗️ In Progress "
   color: "008672"
-
 - name: "🛟 Need Help"
   color: "008672"
-
 - name: "🆘 Fire Drill 🚒"
   color: "008672"
-
 - name: "0️⃣ Points "
   color: "008672"
-
 - name: "1️⃣ Point "
   color: "008672"
-
 - name: "⌛ Scheduled for Closure"
   color: "008672"
-
 - name: "🔬 Research"
   color: "008672"
-
 - name: "🏚️ Abandoned Issue"
   color: "008672"
 - name: "🤷 No Ownership"
   color: "008672"
 - name: "🚪 Candidate for Closure"
   color: "008672"
-
-
-
