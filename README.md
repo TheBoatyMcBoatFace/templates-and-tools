@@ -43,9 +43,9 @@ To sync and manage the labels I use
 | --------------------------------------------------- | ------------------------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------- |
 | Standard labels commonly used in most repositories. | Describes the relative effort to complete an issue or pull request. | df     | Describes the type of issue or pull request. | Describes the decision state of the issue or pull request. |
 
-| Label                                                                                  | Color     | Description | Alias |
-| -------------------------------------------------------------------------------------- | --------- | ----------- | ----- |
-| https://github.com/TheBoatyMcBoatFace/github-label-manager/labels/good%20first%20issue | `#5319e7` | ids         | asl   |
+| Label                                                                                 | Color     | Description | Alias |
+| ------------------------------------------------------------------------------------- | --------- | ----------- | ----- |
+| https://github.com/TheBoatyMcBoatFace/templates-and-tools/labels/good%20first%20issue | `#5319e7` | ids         | asl   |
 
 ## Inspiration
 
