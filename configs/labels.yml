@@ -1,14 +1,12 @@
 - name: "good first issue"
-  color: "5319e7"
+  color: 5319e7
   description: "Good for newcomers"
   aliases: []
 
 - name: "help wanted"
-  color: "008672"
+  color: 008672
   description: "Extra attention is needed"
   aliases: []
-
-
 
 - name: "⚙️ DevOps"
 
