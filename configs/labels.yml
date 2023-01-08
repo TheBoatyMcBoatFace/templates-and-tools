@@ -73,3 +73,69 @@
   color: d876e3
   description: "Further information is requested"
   aliases: ["question"]
+
+- name: "⚙️ DevOps"
+
+- name: "🧊 Ice Box "
+
+- name: "🎪 Epic"
+
+- name: "🆕 Feature Request"
+
+- name: "🖼️ Front End"
+
+- name: "🍄 Back End"
+
+
+- name: "⚖️ Compliance/Legal"
+
+- name: "🤠 "
+
+- name: "🏰 Security "
+
+- name: "🔌 Integrations/API"
+
+- name: "🗳️ Feedback Needed "
+
+
+- name: "⛔ Blocked "
+
+
+- name: "♿ Accessability"
+
+
+- name: "🌵 Tough Issue"
+
+- name: "🚷 Not Persuing󠁣 "
+
+
+- name: "🏗️ In Progress "
+
+
+- name: "🛟 Need Help"
+
+
+- name: "🆘 Fire Drill 🚒"
+
+
+- name: "0️⃣ Points "
+
+
+- name: "1️⃣ Point "
+
+
+- name: "⌛ Scheduled for Closure"
+
+
+- name: "🔬 Research"
+
+
+- name: "🏚️ Abandoned Issue"
+
+- name: "🤷 No Ownership"
+
+- name: "🚪 Candidate for Closure "
+
+
+
+
