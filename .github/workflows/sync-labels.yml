@@ -5,15 +5,15 @@ on:
   push:
 
 jobs:
-  export-labels:
-    name: Export Labels from Repo(s)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: EndBug/export-label-config@v1
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          raw-result: false
-          add-aliases: true
+ # export-labels:
+ #   name: Export Labels from Repo(s)
+ #   runs-on: ubuntu-latest
+ #   steps:
+ #     - uses: EndBug/export-label-config@v1
+ #       with:
+ #         token: ${{ secrets.GITHUB_TOKEN }}
+ #         raw-result: false
+ #         add-aliases: true
       # By default every label entry will have an `aliases` property set to an empty array.
       # It's for EndBug/label-sync, if you don't want it you cans set this to `false`
   sync-labels:
