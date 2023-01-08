@@ -47,6 +47,8 @@ To sync and manage the labels I use
 | ------------------------------------------------------------------------------------- | --------- | ----------- | ----- |
 | https://github.com/TheBoatyMcBoatFace/templates-and-tools/labels/good%20first%20issue | `#5319e7` | ids         | asl   |
 
+`#5319e7`
+
 ## Inspiration
 
 The [Label Sync](https://github.com/marketplace/actions/label-sync) Github Action by @EndBug
