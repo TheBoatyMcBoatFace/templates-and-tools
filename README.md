@@ -45,9 +45,9 @@ To sync and manage the labels I use
 
 | Label                                                                                 | Color     | Description | Alias |
 | ------------------------------------------------------------------------------------- | --------- | ----------- | ----- |
-| https://github.com/TheBoatyMcBoatFace/templates-and-tools/labels/good%20first%20issue | `#5319e7` | ids         | asl   |
+| https://github.com/TheBoatyMcBoatFace/templates-and-tools/labels/good%20first%20issue | `#5319E7` | ids         | asl   |
 
-`#5319e7`
+`#5319E7`
 
 ## Inspiration
 
