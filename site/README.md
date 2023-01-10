@@ -1,8 +1,8 @@
-# templates-and-tools
+# site
 
 A template repository with multiple automations
 
-## Actions / Workflows
+## Actions / Workfflows
 
 ### Stale Issue Manager
 
